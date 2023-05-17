@@ -1,2 +1,7 @@
 
 merge branch
+
+first line
+master added
+
+lab 3 added
